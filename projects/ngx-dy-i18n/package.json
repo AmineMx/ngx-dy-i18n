@@ -1,6 +1,6 @@
 {
   "name": "ngx-dy-i18n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The internationalization (i18n) little hack to use native i18n translations in controller",
   "author": "Olivier Combe",
   "keywords": [

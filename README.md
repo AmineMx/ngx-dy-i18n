@@ -1,7 +1,7 @@
 <h1 align="center" style="border-bottom: none;">📦  ngx-dy-i18n</h1>
 <p align="center">
   <a href="https://www.npmjs.com/package/ngx-dy-i18n">
-    <img alt="npm latest version" src="https://img.shields.io/npm/v/semantic-release/latest.svg">
+    <img alt="npm latest version" src="https://img.shields.io/npm/v/ngx-dy-i18n/latest.svg">
   </a>
 </p>
 
