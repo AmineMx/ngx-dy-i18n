@@ -1,0 +1,32 @@
+{
+  "name": "ngx-dy-i18n",
+  "version": "0.0.1",
+  "description": "The internationalization (i18n) little hack to use native i18n translations in controller",
+  "author": "Olivier Combe",
+  "keywords": [
+    "angular",
+    "angular 2",
+    "i18n",
+    "translate",
+    "native i18n"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AmineMx/ngx-dy-i18n",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmineMx/ngx-dy-i18n.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmineMx/ngx-dy-i18n/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": ">=7.0.0",
+    "rxjs": ">=6.3.0"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.13.24"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  }
+}
