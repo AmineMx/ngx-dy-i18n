@@ -1,8 +1,8 @@
 {
   "name": "ngx-dy-i18n",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "The internationalization (i18n) little hack to use native i18n translations in controller",
-  "author": "Olivier Combe",
+  "author": "Amine Kaddache",
   "keywords": [
     "angular",
     "angular 2",
@@ -22,11 +22,5 @@
   "peerDependencies": {
     "@angular/core": ">=7.0.0",
     "rxjs": ">=6.3.0"
-  },
-  "devDependencies": {
-    "semantic-release": "^15.13.24"
-  },
-  "scripts": {
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   }
 }
